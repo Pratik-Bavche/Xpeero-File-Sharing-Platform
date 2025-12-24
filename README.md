@@ -50,4 +50,5 @@ Reliable even behind restrictive networks.
 
 Quick, ad-hoc collaboration.
 
+check live demo : https://xpeero.vercel.app/home
 
