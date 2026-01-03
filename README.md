@@ -1,4 +1,4 @@
-# 🛩️ Xpeero (Simple, Fast File Sharing platform)
+# 🛩️ Xpeero - Simple, Fast & User Friendly File Sharing platform
 
 A small web app built with Next.js for quick, privacy-focused file transfers using short links or P2P sessions.
 
@@ -51,4 +51,5 @@ Reliable even behind restrictive networks.
 Quick, ad-hoc collaboration.
 
 check live demo : https://xpeero.vercel.app/home
+
 
