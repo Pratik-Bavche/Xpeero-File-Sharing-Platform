@@ -36,7 +36,7 @@ P2P: WebRTC DataChannels
 
 Optional Services: Vercel Blob, Firebase
 
-Utilities: nanoid, qrcode.react, jszip, uuid, date-fns
+Utilities: nanoid, qrcode.react, jszip, uuid, date-fns 
 
 UI/UX: Framer Motion, Lucide icons, Sonner
 
